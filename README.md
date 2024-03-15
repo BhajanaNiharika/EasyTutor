@@ -54,7 +54,7 @@ The payments page facilitates secure online payments for course registration and
 To get started with the EasyTutor website, simply clone this repository to your local machine and open the `index.html` file in your web browser.
 
 ```bash
-git clone https://github.com/your-username/easytutor.git
+git clone https://github.com/BhajanaNiharika/easytutor.git
 cd easytutor
 
 
